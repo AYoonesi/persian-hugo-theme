@@ -1,5 +1,8 @@
 # I must spend some time translating this, too!
 
+See the live preview on [my blog](https://linstit.pw/).
+
+----
 [![Go Enviroment](https://img.shields.io/static/v1?label=GoLang&message=1.12.1&color=%2300ADD8&logo=Go)](https://studygolang.com/dl#go1.12.1)
 [![Build Hugo Version](https://img.shields.io/static/v1?label=Hugo&message=0.87.0&color=%23FF4088&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/elkan1788/hugo-theme-next/main?label=Check%20State&logo=Checkmarx)
